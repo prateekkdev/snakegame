@@ -1,0 +1,10 @@
+*.iml
+.gradle
+.DS_Store
+build
+nbproject
+test
+dist
+manifest.mf
+build.xml
+
